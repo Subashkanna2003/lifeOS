@@ -1,0 +1,6 @@
+{
+  "appId": "com.lifeos.prototype",
+  "appName": "LifeOS",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
